@@ -1,4 +1,4 @@
-![logo](C:\Users\nandi\Downloads\Brown Wood Minimalist Profile LinkedIn Banner.png)
+![logo](https://github.com/nandiniJambhulkar12/nandinijambhulkar12/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 preview
 <h1 align="center">Hi 👋, I'm Nandini Jambhulkar</h1>
